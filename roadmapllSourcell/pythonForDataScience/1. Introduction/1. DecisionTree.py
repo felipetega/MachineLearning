@@ -1,4 +1,4 @@
-#Using Tree model of Sklearn
+#Using Decision Tree model of Sklearn
 
 from sklearn import tree
 
